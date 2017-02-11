@@ -1,7 +1,6 @@
 # mwrable.github.io
 02/11/17 - Welcome to my github website!
 
-index.html
 <html lang="en">
 <head>
     <meta charset="utf-8"> 
